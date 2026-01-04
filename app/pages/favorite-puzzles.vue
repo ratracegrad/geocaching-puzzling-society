@@ -20,7 +20,7 @@
         <div class="mt-6 space-y-4">
           <UAlert
             icon="i-lucide-info"
-            color="blue"
+            color="primary"
             variant="soft"
             title="Coming Soon"
             description="We're curating a list of our favorite puzzles. This section will be updated with puzzle recommendations, difficulty ratings, and helpful solving tips."
