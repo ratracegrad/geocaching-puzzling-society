@@ -10,7 +10,6 @@ import type { NavigationMenuItem } from '@nuxt/ui'
 const menuItems: NavigationMenuItem[] = [
   {
     label: 'Next Event/GGPS Favorites',
-    to: '/next-event',
     children: [
       {
         label: 'GCA1NHM – GGPS-09 Event: MOAP (the Mother of all Puzzles)!',
