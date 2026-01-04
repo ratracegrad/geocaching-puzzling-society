@@ -77,7 +77,9 @@
           class="text-sm text-primary"
         >ThePuzzlePosse@gmail.com</a>
 
-        <p class="mt-4">From Left to Right: Sue LaFave (LaFavorite Cacher), poeanne (Anne Poe), Matt Janiak (GeoMonkeyTiger!)</p>
+        <p class="mt-4">
+          From Left to Right: Sue LaFave (LaFavorite Cacher), poeanne (Anne Poe), Matt Janiak (GeoMonkeyTiger!)
+        </p>
       </div>
     </UPageGrid>
   </UContainer>

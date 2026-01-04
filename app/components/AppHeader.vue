@@ -2,7 +2,6 @@
   <UHeader title="GGPS">
     <UNavigationMenu :items="menuItems" />
   </UHeader>
-
 </template>
 
 <script setup lang="ts">
@@ -22,7 +21,7 @@ const menuItems: NavigationMenuItem[] = [
         label: 'GGPS Favorite Puzzles!',
         to: 'https://coord.info/BMARCBJ',
         target: '_blank'
-      },
+      }
     ]
   },
   {
